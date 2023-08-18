@@ -23,5 +23,6 @@ public class QuestionController {
     public List<Question> getCategory(@PathVariable String category){
         return questionService.getCategory(category);
         //helloworld
+        //testomg commite
     }
 }
