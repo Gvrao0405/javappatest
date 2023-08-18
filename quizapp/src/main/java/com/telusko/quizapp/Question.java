@@ -14,7 +14,7 @@ public class Question {
     private Integer id;
     private Character username;
     private String password;
-//    private String email;
+    private String category;
 
 
 }
